@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notepad_ContentProvider</string>
+    <string name="newNote">Новая заметка</string>
+    <string name="updateNote">Редактирование</string>
+</resources>
